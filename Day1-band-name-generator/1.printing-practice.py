@@ -1,0 +1,5 @@
+print("1.500g of flour, 10g of sugar, 1 egg, 100ml of milk, 50g of butter")
+print("2.knead the dough, and let it rest for 10 minutes.")
+print("3.add 3g of salt.")
+print("4.Leave to rise for 2 hours.")
+print("5.Bake at 200 degrees C for 30 minutes.")
